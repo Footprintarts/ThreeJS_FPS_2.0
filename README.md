@@ -26,7 +26,7 @@ Get started with this project in a few simple steps:
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Footprintarts/ThreeJS_FPS_2.0.git
 ```
 
 ### **2️⃣ Navigate to the Project Directory**
