@@ -1,13 +1,19 @@
-# **🚀 Three.js FPS Rig - Open Source Project**
+# <img src="./public/images/logo.png" alt="FPS Rig" width="60"> Three.js FPS Game Template – Open Source
 
-A **fully modular** Three.js project demonstrating **FPS-style animations, physics, shooting mechanics, and background music**.
+### A Classic FPS Rig with Shooting, Movement, & Physics
 
-🎮 **Built with:**  
-✅ **Three.js** (3D rendering)  
-✅ **GLTFLoader** (3D model loading)  
-✅ **Octree Physics** (collision detection)  
-✅ **Modular Architecture** (clean & maintainable code)  
-✅ **Sound & Music Integration**
+A fully modular Three.js game template demonstrating FPS-style movement, physics, shooting mechanics, and background music. This project is an updated and expanded version of the original [Three.js FPS example](https://threejs.org/examples/?q=FPS#games_fps), with additional features, modular architecture, and optimizations to enhance flexibility and maintainability.
+
+This project builds upon the foundations of the original example while introducing improvements like sound effects, a camera attached to the rig, and animations synced with actions like shooting and idle to create a more immersive FPS experience.
+
+🔑 Key Features
+✅ Three.js – High-performance 3D rendering
+✅ GLTFLoader – Efficient 3D model loading
+✅ Octree Physics – Smooth collision detection & movement
+✅ Modular Architecture – Clean, scalable, and easy to maintain
+✅ Sound & Music Integration – Immersive SFX & ambient audio
+
+🎯 Ideal for: Game developers, 3D enthusiasts, and anyone exploring browser-based FPS mechanics.
 
 ---
 
@@ -15,7 +21,7 @@ A **fully modular** Three.js project demonstrating **FPS-style animations, physi
 
 **"FPS Rig AKM"** by **J-Toastie** [CC-BY] via **Poly Pizza**
 
-![FPS Rig](./public/images/Fps02.png)
+<img src="./public/images/Fps02.png" alt="FPS Rig" width="600">
 
 ---
 
@@ -146,7 +152,7 @@ function playGunAnimation(animationName) {
 export { createCamera, playGunAnimation, gunMixer };
 ```
 
-- EXPECTED RESULT:
+- **EXPECTED RESULT:**
   ![FPS Rig](./public/images/Fps01.png)
 
 ---
