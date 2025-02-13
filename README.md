@@ -8,11 +8,11 @@ This project builds upon the foundations of the original example while introduci
 
 ## **🔑 Key Features**
 
-✅ Three.js – High-performance 3D rendering
-✅ GLTFLoader – Efficient 3D model loading
-✅ Octree Physics – Smooth collision detection & movement
-✅ Modular Architecture – Clean, scalable, and easy to maintain
-✅ Sound & Music Integration – Immersive SFX & ambient audio
+- ✅ Three.js – High-performance 3D rendering
+- ✅ GLTFLoader – Efficient 3D model loading
+- ✅ Octree Physics – Smooth collision detection & movement
+- ✅ Modular Architecture – Clean, scalable, and easy to maintain
+- ✅ Sound & Music Integration – Immersive SFX & ambient audio
 
 🎯 Ideal for: Game developers, 3D enthusiasts, and anyone exploring browser-based FPS mechanics.
 
