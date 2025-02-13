@@ -32,7 +32,7 @@ git clone https://github.com/Footprintarts/ThreeJS_FPS_2.0.git
 ### **2️⃣ Navigate to the Project Directory**
 
 ```sh
-cd your-repo
+cd your-project
 ```
 
 ### **3️⃣ Install Dependencies**
@@ -81,7 +81,7 @@ This will launch the project in your default web browser.
 
 ## **📜 Code Breakdown**
 
-### **🔹 1. Attaching the Camera with Animated Model **
+### **🔹 1. Attaching the Camera with Animated Model**
 
 Handles **camera positioning, animations, and interactions**.
 
