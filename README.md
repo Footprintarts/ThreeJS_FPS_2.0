@@ -1,7 +1,5 @@
 # **🚀 Three.js FPS Rig - Open Source Project**
 
-![FPS Rig](./images/Fps01.png)
-
 A **fully modular** Three.js project demonstrating **FPS-style animations, physics, shooting mechanics, and background music**.
 
 🎮 **Built with:**  
@@ -17,7 +15,7 @@ A **fully modular** Three.js project demonstrating **FPS-style animations, physi
 
 **"FPS Rig AKM"** by **J-Toastie** [CC-BY] via **Poly Pizza**
 
-![FPS Rig](./images/Fps02.png)
+![FPS Rig](./public/images/Fps02.png)
 
 ---
 
@@ -83,7 +81,7 @@ This will launch the project in your default web browser.
 
 ## **📜 Code Breakdown**
 
-### **🔹 1. Camera & Animation System**
+### **🔹 1. Attaching the Camera with Animated Model **
 
 Handles **camera positioning, animations, and interactions**.
 
@@ -119,7 +117,7 @@ function createCamera(scene) {
     gun.rotation.set(0, Math.PI / 2, 0);
     gunHolder.add(gun);
 
-    // 🔥 Initialize Animation Mixer
+    // Initialize Animation Mixer
     gunMixer = new AnimationMixer(gun);
 
     // Store animations in a dictionary
@@ -147,6 +145,9 @@ function playGunAnimation(animationName) {
 
 export { createCamera, playGunAnimation, gunMixer };
 ```
+
+- EXPECTED RESULT:
+  ![FPS Rig](./public/images/Fps01.png)
 
 ---
 
