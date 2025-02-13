@@ -6,7 +6,8 @@ A fully modular Three.js game template demonstrating FPS-style movement, physics
 
 This project builds upon the foundations of the original example while introducing improvements like sound effects, a camera attached to the rig, and animations synced with actions like shooting and idle to create a more immersive FPS experience.
 
-🔑 Key Features
+## **🔑 Key Features**
+
 ✅ Three.js – High-performance 3D rendering
 ✅ GLTFLoader – Efficient 3D model loading
 ✅ Octree Physics – Smooth collision detection & movement
