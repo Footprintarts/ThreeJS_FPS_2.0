@@ -2,7 +2,7 @@
 
 ### A Classic FPS Rig with Shooting, Movement, & Physics
 
-📜 License: This project is licensed under the GNU GPL v3.0. See the LICENSE file for details.
+📜 License: This project is licensed under the MIT License. See the LICENSE file for details
 
 A fully modular Three.js game template demonstrating FPS-style movement, physics, shooting mechanics, and background music. This project is an updated and expanded version of the original [Three.js FPS example](https://threejs.org/examples/?q=FPS#games_fps), with additional features, modular architecture, and optimizations to enhance flexibility and maintainability.
 
